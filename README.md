@@ -12,5 +12,3 @@
 * Gladiotor
 
 # Trying one more time with user id pwd - test
-
-# Testing with user id pwd - test - rahul
